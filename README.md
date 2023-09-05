@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thijsjls
 - 👀 Artificial Intelligence
-- 🌱 MSc AI @ Universiteit van Amsterdam
+- 👷‍♂️ Data Scientist @ Picnic Technologies
 - 📫 thijs.jls@gmail.com
 
 <!---
